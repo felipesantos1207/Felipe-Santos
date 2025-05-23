@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Felipe Santos
 
-🎯 Transitioning into Data Analysis | Former HR & Payroll Specialist  
-📍 Living in Ireland | 🇧🇷🇮🇹
+🎯 My name is Felipe, and I hold a degree in Human Resources and Psychology. I’m currently transitioning into the tech field and looking for new challenges.
+
+I’ve been studying Python, Data Analysis, Business Intelligence, Power BI, and Excel.
+
+Each day, I learn more about technology and grow more passionate about the field. My portfolio is constantly evolving as I apply everything I’m learning in practice.
 
 ## 🧠 Skills & Tools
 - SQL • Python • C++ • Excel • Power BI
